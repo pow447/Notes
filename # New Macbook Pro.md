@@ -43,11 +43,50 @@ TambarineLoop.wav
 
 ### WitMac
 #### Samples Curated
+##### Kicks
+##### Claps
+##### Snares
+##### Cymbals
+###### Hats
+###### Crash
+###### Rides
+###### Other
+##### Percussion
+##### Loops
+#### Projects
+#### Exports
+##### Preview
+##### Masters
+
 
 ### Solo Tunes
 #### Samples Curated
+##### Kicks
+##### Claps
+##### Snares
+##### Cymbals
+###### Hats
+###### Crash
+###### Rides
+###### Other
+##### Percussion
+##### Loops
+#### Projects
+#### Exports
+##### Preview
+##### Masters 
 
 ### WYB
+#### MIDI
+##### Full Track
+##### Ringtones
+#### Projects
+##### Full Track
+###### Franchise
+##### Ringtones
+#### Batches
+##### Full Track
+##### Ringtones
 
 ## Jewellery
 ### Blender
